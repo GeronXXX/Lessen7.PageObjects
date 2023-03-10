@@ -8,7 +8,6 @@ import static com.codeborne.selenide.Selectors.byText;
 import static com.codeborne.selenide.Selenide.$;
 import static com.codeborne.selenide.Selenide.open;
 
-
 public class PageObgects {
     CalendarComponent calendarComponent = new CalendarComponent();
     RegistrationResultsModal registrationResultsModal = new RegistrationResultsModal();
