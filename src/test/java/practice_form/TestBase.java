@@ -1,4 +1,4 @@
-package practiceForm;
+package practice_form;
 
 import com.codeborne.selenide.Configuration;
 import org.junit.jupiter.api.AfterAll;

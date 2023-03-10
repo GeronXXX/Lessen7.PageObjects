@@ -1,4 +1,4 @@
-package practiceForm;
+package practice_form;
 
 import org.junit.jupiter.api.Test;
 import pages.PageObgects;
